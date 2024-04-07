@@ -1,2 +1,3 @@
 # Automatic-Analysis-of-Descriptive-Answers
-Grading the subjectiuve answer sheets using NLP Techniques
+NLP-driven grading system, seamlessly incorporating plagiarism and grammar checks. Used semantic similarity
+checking methods to compare the student answers with solutions.
